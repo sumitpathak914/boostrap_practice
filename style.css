@@ -1,0 +1,33 @@
+.paragraph{
+    font-size: 25px;
+   margin-top: 100px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.paragraph1{
+    margin-top: -20px;
+}
+.navbar{
+    margin-top: -20;
+}
+.card-img-top{
+    border: 10px solid white;
+}
+.example{
+    font-size: 12px;
+}
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.nav-link{
+    color: green;
+}
+body{
+    background-color: lightgray;
+}
+.example{
+    margin-bottom: 100px;
+}
+.card{
+    height: 500px;
+}
